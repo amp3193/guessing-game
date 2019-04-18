@@ -1,0 +1,11 @@
+* {
+    text-align: center;
+}
+
+.header {
+    background-image: url("assets/images/letters.jpg");
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
